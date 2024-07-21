@@ -1,6 +1,6 @@
 ### Daniel Ortega
 ###CS110 summer2024 week 6
-
+###Calculate SalesPrice
 
 original_price = input('original_price ')
 rate = input('rate ')
