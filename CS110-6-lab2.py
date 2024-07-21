@@ -25,6 +25,7 @@ print("OT_wage:", OT_wage)
 Total_wage = OT_wage + Regular_wage
 print("Total_wage:", Total_wage)  
 
+#End
 
 
 
